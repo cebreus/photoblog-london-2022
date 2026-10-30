@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "plannerVersion": 1,
+  "snapshotId": "d3613efddbde3ec93e588691ca4309b6d876cc3b964eb6a7be45eaa63081cc6a",
+  "gallery": "london-2022",
+  "updatedAt": "2026-10-30T13:54:21.262Z",
+  "locationsSha256": "a4f7060208e34efd5277ec454147e053a02162302e0a77ae6d17a49255ecbda8",
+  "byZoom": {
+    "0": 1,
+    "1": 4,
+    "2": 16,
+    "3": 9,
+    "4": 9,
+    "5": 9,
+    "6": 9,
+    "7": 9,
+    "8": 9,
+    "9": 9,
+    "10": 9,
+    "11": 35,
+    "12": 41,
+    "13": 56,
+    "14": 139,
+    "15": 238,
+    "16": 451,
+    "17": 829
+  },
+  "layers": {
+    "street": {
+      "format": "png",
+      "extension": "png",
+      "mimeType": "image/png",
+      "path": "map-tiles-street",
+      "attribution": "© CARTO; © OpenStreetMap contributors",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
+      "sourceId": "carto-voyager-legacy-trial",
+      "maxZoom": 17,
+      "expected": 1882,
+      "sha256": "debeac37c90149b53e8e50663bef05bb072c646b21c85c078ff32e76b993a64d",
+      "acquiredAt": "2026-10-09T19:35:57.249Z"
+    },
+    "satellite": {
+      "format": "jpeg",
+      "extension": "jpg",
+      "mimeType": "image/jpeg",
+      "path": "map-tiles-satellite",
+      "attribution": "© Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
+      "sourceId": "esri-world-imagery-legacy-trial",
+      "maxZoom": 16,
+      "expected": 1053,
+      "sha256": "63878fab32b7d7bda28fe58e8ddc4918d168ae2b28027d9dbfaa0ade48c6c8e4",
+      "acquiredAt": "2026-10-09T19:35:57.249Z"
+    }
+  }
+}
