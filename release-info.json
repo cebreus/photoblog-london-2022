@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "applicationVersion": "1.3.1",
-  "coreVersion": "2.0.1",
-  "coreCommitSha": "3500fe2d50c374b23a0bb3e97dc145f544a35c8e",
+  "applicationVersion": "1.3.2",
+  "coreVersion": "2.1.0",
+  "coreCommitSha": "5d3246227ecbc8db760fd427be8fe56a537a8805",
   "coreDirty": false,
-  "coreFingerprint": "6c840fd5f99ffe0d17c35138aa38966ca944349a6421b78b05e4a0bc2495c686",
-  "galleryCommitSha": "0e03145458fe1b5a696d380432933464154f6b6f",
+  "coreFingerprint": "8509452a6b2a67682db3c186ade90a3b4a4b8dda62aea18adaa0587cb05e6c75",
+  "galleryCommitSha": "fa36d273c95704553b116d5bc866962fd284fdf7",
   "galleryDirty": false,
-  "galleryFingerprint": "5c88e8079433f97171507f50411d2521e2d38daef114bf19f51bbd03b3dc06cf",
-  "galleryStateFingerprint": "b64b337e33680850d9019e087f40b5b7bde384ace75808b549e6084ff54ac002",
-  "builtAt": "2026-10-30T18:06:44.886Z"
+  "galleryFingerprint": "98de42a56e075c274be76de6dca3d23801f01019f27908a7975c7137a2026f9a",
+  "galleryStateFingerprint": "4dd445e7e23f7f9726451f29c95b9a9f551d163e66dca0ed6087be4a2d8d25e5",
+  "builtAt": "2026-11-01T11:19:51.838Z"
 }
